@@ -4,7 +4,7 @@ import './Blogs.css'
 const Blogs = () => {
     return (
         <div >
-            <h2 className='d-flex justify-content-center mb-5'>This is my Blogs</h2>
+            <h2 className='d-flex justify-content-center mt-5 text-primary'>This is my Blogs</h2>
             <div className='blogs'>
                 <div className='blog'>
                     <h3>Difference between authorization and authentication?</h3>
